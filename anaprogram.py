@@ -1,5 +1,5 @@
 # rastgele-sayilar Python Programi
-# Kodlayan: cpu-astatine
+# Kodlayan: 0silat0r
 
 # Kütüphanelerin Eklenmesi
 import os
